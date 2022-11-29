@@ -1,0 +1,8 @@
+2022-11-29 10:07:32,696 [main] INFO DalalStreet Framework - Framework execution started
+2022-11-29 10:07:43,307 [main] INFO DalalStreet Framework - Browser lauches CHROME
+2022-11-29 10:07:43,308 [main] INFO DalalStreet Framework - maximize, provided implicitly wait
+2022-11-29 10:07:48,352 [main] INFO DalalStreet Framework - Logged into application
+2022-11-29 10:07:48,365 [main] INFO DalalStreet Framework - Test case execution started
+2022-11-29 10:07:51,390 [main] INFO DalalStreet Framework - Test case execution completed
+2022-11-29 10:07:52,237 [main] INFO DalalStreet Framework - Browser closed
+2022-11-29 10:07:52,239 [main] INFO DalalStreet Framework - Framework execution ended
