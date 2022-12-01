@@ -46,7 +46,7 @@ public class TestBase {
 	@BeforeMethod
 	public void setUp() throws InterruptedException
 	{
-		String br = "CHROME";
+		String br = "chrome";
 		
 		if(br.equalsIgnoreCase("Chrome"))
 		{
