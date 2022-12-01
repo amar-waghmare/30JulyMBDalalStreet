@@ -6,6 +6,7 @@ public class DashboardPage {
 	{
 		System.out.println("Dashboard page");
 		System.out.println("Dashboard page --------------- ");
+		System.out.println("Dashboard page+ Homepage");
 	}
 
 }
